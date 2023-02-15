@@ -1,2 +1,2 @@
 # autoTesting-nf
-Automatic testing testing for SIH Nextflow workflows
+Automated testing testing for SIH Nextflow workflows
