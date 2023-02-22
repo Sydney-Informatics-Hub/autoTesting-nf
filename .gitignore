@@ -1,0 +1,5 @@
+package-lock.json
+node_modules
+nf-core_tools
+nf-core-rnaseq-3.10.1
+IndexReferenceFasta-nf
